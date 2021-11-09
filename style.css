@@ -1,0 +1,25 @@
+h1 {
+    color: aqua;
+    background-color: black;
+    margin:10px;
+    padding: 10px;
+    font-family:monospace;
+} 
+h2 {
+    color: ghostwhite;
+    background-color:blueviolet;
+    text-align:center;
+    margin: 10px;
+    padding: 10px;
+}
+h3 {
+    color: darkslateblue;
+    background-color:rgb(144, 218, 243);
+    text-align: right;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: underline;
+}
+span {
+    color: white;
+}
